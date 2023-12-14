@@ -31,4 +31,4 @@ func _on_body_entered(body):
 	hide()
 	enemy_hit.play()
 	b_gmusic.stop()
-	pass # Replace with function body.
+	
